@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #455a64;
+    text-align: center;
+}
+
+
+button{
+    border: none;
+    outline: none;
+    padding: 32px;
+    outline: none;
+    box-shadow: 2px 2px 7px #333;
+    margin: 32px;
+   
+}
+
+.remote{
+    display: inline-block;
+}
